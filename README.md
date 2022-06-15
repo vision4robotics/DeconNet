@@ -41,7 +41,7 @@ We provide the tracking [results](https://pan.baidu.com/s/1d8P3O9V3I6jqDqgG2LG5N
         python eval.py 	                          \
 	         --tracker_path ./results          \ # result path
 	         --dataset UAV123                  \ # dataset_name
-	         --tracker_prefix 'AFRTmodel'   # tracker_name
+	         --tracker_prefix 'DeconNetmodel'   # tracker_name
 ### 5. Contact
 If you have any questions, please contact me.
 
