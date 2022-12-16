@@ -21,7 +21,7 @@ TRACK:
     w3: 0.97
 
 TRAIN:
-    EPOCH: 38
+    EPOCH: 100
     START_EPOCH: 0  
     BATCH_SIZE: 128
     NUM_GPU: 2
