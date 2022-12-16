@@ -36,7 +36,7 @@ To train the DeconNet model, run `train.py` with the desired configs:
        python train.py
 
 ### 4. Evaluation
-We provide the tracking [results](https://pan.baidu.com/s/1d8P3O9V3I6jqDqgG2LG5Ng)(code: 6q8m) of UAV123@10fps, UAV123, and UAVTrack112_L. If you want to evaluate the tracker, please put those results into `results` directory.
+We provide the tracking [results](https://pan.baidu.com/s/1d8P3O9V3I6jqDqgG2LG5Ng)(code: 6q8m) of DTB70, UAV123@10fps, UAV123, and UAVTrack112_L. If you want to evaluate the tracker, please put those results into `results` directory.
 
         python eval.py 	                          \
 	         --tracker_path ./results          \ # result path
