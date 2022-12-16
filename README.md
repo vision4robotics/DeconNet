@@ -6,7 +6,7 @@ This code has been tested on Ubuntu 18.04, Python 3.8.3, Pytorch 0.7.0/1.6.0, CU
 
       pip install -r requirements.txt
 ### 2. Test
-Download pretrained model: [DeconNetmodel](https://pan.baidu.com/s/1xXs60LeQehvCwKJo1zwzrg)(code: huat) and put it into `tools/snapshot` directory.
+Download pretrained model: [DeconNetmodel](https://pan.baidu.com/s/1HnNKGOJFfH7_ouErfk6olQ)(code: ugr9) and put it into `tools/snapshot` directory.
 
 Download testing datasets and put them into `test_dataset` directory. If you want to test the tracker on a new dataset, please refer to [pysot-toolkit](https://github.com/StrangerZhang/pysot-toolkit.git) to set test_dataset.
 
@@ -36,7 +36,7 @@ To train the DeconNet model, run `train.py` with the desired configs:
        python train.py
 
 ### 4. Evaluation
-We provide the tracking [results](https://pan.baidu.com/s/1d8P3O9V3I6jqDqgG2LG5Ng)(code: 6q8m) of DTB70, UAV123@10fps, UAV123, and UAVTrack112_L. If you want to evaluate the tracker, please put those results into `results` directory.
+We provide the tracking [results](https://pan.baidu.com/s/1F8ona3raS8fK951lgtBiWg)(code: rk4j) of DTB70, UAV123@10fps, UAV123, and UAVTrack112_L. If you want to evaluate the tracker, please put those results into `results` directory.
 
         python eval.py 	                          \
 	         --tracker_path ./results          \ # result path
