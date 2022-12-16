@@ -1,4 +1,4 @@
-# DeconNet: End-to-End Decontaminated Network for Vision-based Aerial Tracking
+# DeconNet: End-to-End Decontaminated Network for Vision-Based Aerial Tracking
 ### Haobo Zuo, Changhong Fu, Sihang Li, Junjie Ye, and Guangze Zheng
 ## About Code
 ### 1. Environment setup
